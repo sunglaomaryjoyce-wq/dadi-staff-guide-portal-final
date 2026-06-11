@@ -1,0 +1,7 @@
+<svg width="220" height="72" viewBox="0 0 220 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="220" height="72" rx="18" fill="#0F5132"/>
+  <circle cx="38" cy="36" r="18" fill="#F4B000"/>
+  <path d="M33 37.5L38 43L47 30" stroke="#0F5132" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="68" y="33" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="22">Dadi</text>
+  <text x="68" y="53" fill="#FFF3C4" font-family="Arial, sans-serif" font-size="13">Staff Guide Portal</text>
+</svg>
