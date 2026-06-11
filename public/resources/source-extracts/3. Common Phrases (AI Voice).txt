@@ -1,0 +1,67 @@
+Most Important AI Voice Questions
+For Parent-Child Travelers in Manila and Clark, Pampanga
+English + Traditional Chinese Version | Prepared for AI Voice Playback
+Purpose: This file provides the most essential questions international parents may need to play through an AI voice tool during airport arrival, transportation, hotel stay, meals, shopping, camp participation, and departure.Chinese language note: The Chinese column uses Traditional Chinese to match the user’s regular document translation style.Usage recommendation: Create one audio clip per question and name the files by number and situation.
+
+Airport Arrival
+English AI Voice Question | 繁體中文語音問題
+Where is the meeting point? | 集合地點在哪裡？
+Where is the baggage claim area? | 行李提領區在哪裡？
+Where is the restroom? | 洗手間在哪裡？
+Where can we exchange money? | 我們可以在哪裡兌換貨幣？
+Where can we buy a local SIM card? | 我們可以在哪裡購買當地的 SIM 卡？
+Can you help us contact our coordinator? | 可以幫我們聯絡我們的協調員嗎？
+
+Transportation
+English AI Voice Question | 繁體中文語音問題
+Are you our assigned driver? | 請問您是我們安排的司機嗎？
+Are we going to this hotel address? | 我們是要去這個飯店地址嗎？
+Can we stop at a restroom? | 可以停一下讓我們上洗手間嗎？
+Can you lower the air-conditioning? | 可以把冷氣調小一點嗎？
+What time will the driver pick us up tomorrow? | 明天司機幾點來接我們？
+
+Hotel
+English AI Voice Question | 繁體中文語音問題
+Can we check in now? | 我們現在可以辦理入住嗎？
+Is our room ready? | 我們的房間準備好了嗎？
+What time is breakfast? | 早餐是幾點？
+What is the Wi-Fi password? | Wi-Fi 密碼是什麼？
+Can someone help us with the room? | 可以請人協助我們處理房間問題嗎？
+
+Restaurant and Food
+English AI Voice Question | 繁體中文語音問題
+Do you have food for children? | 你們有適合孩子的餐點嗎？
+Is this food spicy? | 這道菜會辣嗎？
+Can you make it not spicy? | 可以做成不辣嗎？
+Does this food have seafood or peanuts? | 這道菜有海鮮或花生嗎？
+
+Shopping and Souvenirs
+English AI Voice Question | 繁體中文語音問題
+How much is this? | 這個多少錢？
+Is this food allowed for international travel? | 這個食品可以帶出國嗎？
+Is this already sealed? | 這個已經密封包裝了嗎？
+Can we have a receipt? | 可以給我們收據嗎？
+
+Currency Exchange
+English AI Voice Question | 繁體中文語音問題
+What is the exchange rate today? | 今天的匯率是多少？
+How much Philippine peso will we receive? | 我們會收到多少菲律賓披索？
+Is there a service charge? | 有手續費嗎？
+
+Parent-Child English Camp
+English AI Voice Question | 繁體中文語音問題
+Where is the camp meeting area? | 營隊集合地點在哪裡？
+What time does the class start? | 課程幾點開始？
+What time does the class finish? | 課程幾點結束？
+Where should parents wait during class? | 上課期間家長應該在哪裡等候？
+Can parents observe the class? | 家長可以觀課嗎？
+Can you update me about my child’s progress? | 可以告訴我孩子的學習進展嗎？
+
+Departure
+English AI Voice Question | 繁體中文語音問題
+What time should we leave for the airport? | 我們幾點應該出發去機場？
+Where should we meet the driver? | 我們應該在哪裡跟司機會合？
+Where is the check-in counter? | 登機報到櫃台在哪裡？
+Is this item allowed on the plane? | 這個物品可以帶上飛機嗎？
+
+Implementation Note: For AI voice production, use a slow, clear, warm, and polite international English voice. Each question should be recorded as a separate audio clip for easy access by parents during travel.
