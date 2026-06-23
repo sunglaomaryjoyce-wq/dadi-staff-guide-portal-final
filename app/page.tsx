@@ -20,16 +20,18 @@ export default function HomePage() {
             </div>
           </div>
           <aside className="hero-panel">
-            <h2>First Version Scope</h2>
+            <h2>Staff Guide Coverage</h2>
             <p>
-              This package is designed as a static guide website for Vercel. No database is required yet.
-              Add login, reporting, and database functions later only when staff need to submit monitoring reports online.
+              This website serves as an internal reference portal for Dadi staff. It provides clear guidelines,
+  checking standards, templates, and operational reminders for employee monitoring tools and
+  Parent-Child English Camp coordination.
             </p>
             <ul>
-              <li>Staff guide pages</li>
-              <li>Checking standards</li>
-              <li>Templates and examples</li>
-              <li>Parent-Child Camp operational guidance</li>
+              <li>Employee monitoring tool guidelines</li>
+              <li>JR, calendar, work plan, KPI, and weekly task checking standards</li>
+              <li>Staff checking schedules and reminders</li>
+              <<li>Parent-Child English Camp coordination guides</li>
+              <li>Templates, examples, and frequently asked questions</li> 
             </ul>
           </aside>
         </div>
