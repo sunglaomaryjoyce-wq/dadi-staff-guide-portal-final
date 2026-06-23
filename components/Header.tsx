@@ -17,7 +17,7 @@ export default function Header() {
     <header className="site-header">
       <div className="container header-inner">
         <Link href="/" className="brand" aria-label="Go to homepage">
-          <Image src="/dadi-placeholder-logo.svg" alt="Dadi Staff Guide Portal" width={180} height={59} priority />
+          <Image src="/dadi-logo.png" alt="Dadi Coach Logo" width={180} height={59} priority />
           <span className="brand-text">{site.shortName}</span>
         </Link>
         <nav className="nav" aria-label="Main navigation">
