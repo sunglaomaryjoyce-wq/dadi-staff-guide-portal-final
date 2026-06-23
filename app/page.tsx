@@ -30,7 +30,7 @@ export default function HomePage() {
               <li>Employee monitoring tool guidelines</li>
               <li>JR, calendar, work plan, KPI, and weekly task checking standards</li>
               <li>Staff checking schedules and reminders</li>
-              <<li>Parent-Child English Camp coordination guides</li>
+              <li>Parent-Child English Camp coordination guides</li>
               <li>Templates, examples, and frequently asked questions</li> 
             </ul>
           </aside>
